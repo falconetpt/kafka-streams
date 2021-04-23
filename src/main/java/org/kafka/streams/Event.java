@@ -1,4 +1,4 @@
-package org.thingsboard.kafka;
+package org.kafka.streams;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
